@@ -1,0 +1,33 @@
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+	margin: 0;
+	font-weight: normal;
+}
+#app {
+	font-family: Avenir, Helvetica, Arial, sans-serif;
+	width: 1024px;
+	color: #2c3e50;
+	margin: 60px auto;
+}
+select {
+	margin-top: 30px;
+	height: 30px;
+	width: 180px;
+	padding-left: 10px;
+	border: 1px solid #c3c3c3;
+	border-radius: 8px;
+}
+.table {
+	width: 100%;
+	margin-top: 40px;
+	border: none;
+}
+.table .tableHead th {
+	height: 35px;
+	border-bottom: 2px solid #c3c3c3 !important;
+}
+td {
+	height: 30px;
+}

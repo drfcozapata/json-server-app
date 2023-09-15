@@ -1,0 +1,108 @@
+{
+	"users": [
+		{ "id": 1, "name": "Francisco Zapata" },
+		{ "id": 2, "name": "Ana Karyna Herrera" }
+	],
+	"products": [
+		{
+			"id": 1,
+			"brand": "Samsung",
+			"product": "Samsung Galaxy A22",
+			"category": "Mobile Phone",
+			"price": "194.25",
+			"sold": 484,
+			"released": "2021-06-03",
+			"userId": 1
+		},
+		{
+			"id": 2,
+			"brand": "Microsoft",
+			"product": "Microsoft Surface Pro 7",
+			"category": "Tablet",
+			"price": "882.00",
+			"sold": 182,
+			"released": "2019-10-02",
+			"userId": 2
+		},
+		{
+			"id": 3,
+			"brand": "Infinix",
+			"product": "Infinix Hoy 10 Play",
+			"category": "Mobile Phone",
+			"price": "99.75",
+			"sold": 961,
+			"released": "2021-01-21",
+			"userId": 1
+		},
+		{
+			"id": 4,
+			"brand": "Xaiomi",
+			"product": "Xiaomi Poco X3 Pro",
+			"category": "Mobile Phone",
+			"price": "271.32",
+			"sold": 880,
+			"released": "2021-03-22",
+			"userId": 1
+		},
+		{
+			"id": 5,
+			"brand": "Samsung",
+			"product": "Samsung Galaxy Tab A7 LTE",
+			"category": "Tablet",
+			"price": "307.93",
+			"sold": 140,
+			"released": "2020-09-11",
+			"userId": 2
+		},
+		{
+			"id": 6,
+			"brand": "Huawei",
+			"product": "Huawei Matepad R",
+			"category": "Tablet",
+			"price": "275.48",
+			"sold": 120,
+			"released": "2020-04-28",
+			"userId": 2
+		},
+		{
+			"id": 7,
+			"brand": "Samsung",
+			"product": "Samsung Galaxy Tab S6 Lite",
+			"category": "Tablet",
+			"price": "440.93",
+			"sold": 347,
+			"released": "2020-05-16",
+			"userId": 1
+		},
+		{
+			"id": 8,
+			"brand": "Xaiomi",
+			"product": "Xiaomi Poco F3",
+			"category": "Mobile Phone",
+			"price": "377.65",
+			"sold": 75,
+			"released": "2021-03-27",
+			"userId": 2
+		},
+		{
+			"id": 9,
+			"brand": "Samsung",
+			"product": "Samsung Galaxy A12",
+			"category": "Mobile Phone",
+			"price": "173.11",
+			"sold": 1700,
+			"released": "2020-11-24",
+			"userId": 1
+		},
+		{
+			"id": 10,
+			"brand": "Huawei",
+			"product": "Huawei Matepad T10",
+			"category": "Tablet",
+			"price": "185.15",
+			"sold": 90,
+			"released": "2020-10-14",
+			"userId": 1
+		}
+	]
+}
